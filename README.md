@@ -6,5 +6,5 @@ I have been working for 5+ years on WEB and mobile application development using
 Skills: JAVASCRIPT / TYPESCRIPT / HTML / CSS / REACT / REACT NATIVE / JEST / REACT TESTING LIBRARY / NODE.
 
 - 🔭 I’m currently working on [Mercado favo](https://mercadofavo.com/).
-- 📫 How to reach me [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/brunobraga89/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/@_brunobraga)    
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/brunobraga89/) / [Twitter](https://twitter.com/@_brunobraga)
 
